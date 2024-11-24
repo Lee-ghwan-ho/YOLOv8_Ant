@@ -9,6 +9,6 @@
   ![6926](https://github.com/user-attachments/assets/6309a0a2-48f8-458d-b28a-38587148c4e7)
 
   
-- 3.ant_gt_counts.csv : images_384_VarV2의 ant 개수 
-- 4.evaluation_results_2.csv : 예측 Accuracy 및 mae
+- 3.ant_gt_counts.csv : images_384_VarV2 의 ant수 정답값 
+- 4.evaluation_results_2.csv : Predict Accuracy 및 mae
 ---
