@@ -2,6 +2,8 @@
 ---
 ## test 파일 
 - 1.YOLO v8x 모델을 학습시킨 결과 : 
+![image](https://github.com/user-attachments/assets/bf80b9a1-a411-4cd4-9c9b-f15c92496d1c)
+
 - 2.bounding_box_outputs:Predict 한 결과 = Accuracy: 60.87%
 <figure class="half">
   
