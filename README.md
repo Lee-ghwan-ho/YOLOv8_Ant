@@ -14,3 +14,6 @@
 - 3.ant_gt_counts.csv : images_384_VarV2 의 ant수 정답값 
 - 4.evaluation_results_2.csv : Predict Accuracy 및 mae
 ---
+## ant 학습
+- 1.YOLO v8x 모델을 학습시킨 과정 :
+---
